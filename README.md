@@ -1,7 +1,6 @@
-<h3>e-commerce</h3>
+<h1>E-commerce</h1>
             <p>This is my second complete project and it is an ecommerce systmem  for a friend of mine selling african caps. So I created a wordpress e-commerce for him to sell his caps online.</p>
             <img src="https://github.com/dantawalli/IMEN/blob/master/project2.jpg" alt="imen e-commerce system in difference view" width="500" height="300">
-            <!-- <iframe src="" width="100%" height="600px" frameborder="0"></iframe> -->
             <p>The system  have the following functionalities: </p>
             <ul>
                 <li>User Registration and Authentication</li>
